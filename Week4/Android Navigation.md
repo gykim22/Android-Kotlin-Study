@@ -34,7 +34,7 @@ dependencies {
 
 **→ 협업 효율 향상.**
 
-</aside>
+
 
 **Gradle Version Catalog 방식의 의존성 추가 및 관리 코드**
 
@@ -91,15 +91,12 @@ androidx-navigation-compose = { module = "androidx.navigation:navigation-compose
 
 ### 1-2-1. Navigation Library
 
-<aside>
-💡
-
 **Navigation Library란?**
 
 - **Google**이 제공하는 **jetpack Navigation** 라이브러리
 - 유저가 앱 내에서 탐색하거나 탐색 후 다시 되돌아오는 상호작용을 구현
 - https://developer.android.com/guide/navigation?hl=ko
-</aside>
+
 
 ### 1-2-2. NavHost
 
